@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amir-mashayekh
+- 👋 Hi, I’m @Amir-Mashayekh
 - 👀 I’m interested in DataScience
 - 🌱 I’m currently learning NN, Machine learning
 
